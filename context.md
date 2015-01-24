@@ -1,13 +1,15 @@
 * Work on ICCSPA15 poster
-  * Try Publisher
-  * Polish InDesign
+  * Finalize design and send to Dr. Rashad
 
-* Finish up DSP HW part 2
+* DSP
+  * Finish last two questions in HW 2
+  * Review chapters in book for next week
+  * Rewatch Day 1 lectures
 
 * Setup Jekyll and a simple design to start with
   * Use Tom's Jekyll blog as reference
 
-* Do 1 programming problem
+* Solve "Run" problem from last contest
 
 * Research and document uni scheduling app
   * Review C# basics
