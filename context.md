@@ -17,3 +17,7 @@
 * Continue work on diodes chapter
 
 * Start reviewing EM theory
+
+* Impact Factor SWT app
+  * Research approach
+  * jsoup + SWT + Scala for now
